@@ -1,0 +1,4 @@
+日期:2017.7.24
+
+	1.通过position:absolute和margin:auto实现水平和垂直方向上的居中.支持IE8+ ,可以用来实现弹窗居中效果
+	2.通过给ul设置margin-right:-20px;同时让ul的父容器总宽度减少20px,实现li列表的两端对齐
